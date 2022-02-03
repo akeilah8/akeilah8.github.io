@@ -1,5 +1,6 @@
 body {text-align: center;
 background: #F5C2CA;}
+p {size: 100px; }
 h1 {border: dashed black ;}
 .animatedBox {
   width: 200px;
