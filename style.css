@@ -1,18 +1,4 @@
 body {text-align: center;
   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
 h1 {border: dashed black ;}
-.animatedBox {
-  width: 200px;
-  padding: 20px;
-  text-align: center;
-  font: 24px sans-serif;
-  color: white;
-  background: black;
-  border: 0px solid #A1AAC6;
-  animation: myAnimation 6s linear 1s 1 forwards;
-}
-@keyframes myAnimation {
-  50% {
-    border: 60px solid black;
-  }	
-}
+
