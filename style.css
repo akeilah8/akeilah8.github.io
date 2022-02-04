@@ -1,8 +1,8 @@
 body {text-align: center;
-  height: 500px;
-  background-image: linear-gradient(#C3F4E9, #F9F1CC,);}
+  height:500px;
+  background-image: linear-gradient(#C3F4E9, #F9F1CC);}
 h1 {border: dashed black ;
 text-size: 100px;}
 p {text-size: 50px;}
-img {width:350px;
-  height: 350px;}
+img {width:250px;
+  height: 250px;}
