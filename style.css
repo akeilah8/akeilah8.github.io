@@ -1,5 +1,5 @@
 body {text-align: center;
-background: linear-gradient(to bottom, #F5C2CA; 0%, #ff99cc 50%);}
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
 h1 {border: dashed black ;}
 .animatedBox {
   width: 200px;
