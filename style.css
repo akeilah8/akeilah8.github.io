@@ -1,8 +1,7 @@
 body {text-align: center;
-  height:500px;
   background-image: linear-gradient(#C3F4E9, #F9F1CC);}
 h1 {border: dashed black ;
 text-size: 100px;}
 p {text-size: 50px;}
-img {width:250px;
-  height: 250px;}
+img {width:150px;
+  height: 150px;}
