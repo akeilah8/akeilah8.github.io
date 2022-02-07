@@ -5,8 +5,4 @@ text-size: 100px;}
 p {text-size: 50px;}
 img {width:230px;
   height: 230px;}
-.design {
-  column-count: 3;
-  column-gap: 40px;
-     column-rule: 1px solid lightblue;
-}
+
